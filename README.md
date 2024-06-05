@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImtiajSajid146
+- 👋 Hi, I’m Imtiaj Uddin Sajid
 - 👀 I’m interested in Programming, Graphics Designing & Reading Books.
-- 🌱 I’m currently learning Graphics Design.
-- 📫 Here Is my e-mail: imtiajsajid118872@gmail.com
+- 🌱 I’m currently learning Full Stack Web Development
+- 📫 Here Is my e-mail: imtiajsajid2422004@gmail.com
